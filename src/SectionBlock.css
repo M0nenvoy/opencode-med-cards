@@ -1,0 +1,22 @@
+.sb__block {
+	padding: 15px;
+}
+
+.sb__title {
+	text-transform: uppercase;
+	font-size: 1.2rem;
+}
+
+.sb__row {
+	padding: 5px 0px;
+	margin:  5px 0px;
+	min-height: 2.3rem;
+}
+
+.sb__key {
+	min-width: 40%;
+}
+
+.sb__value {
+
+}

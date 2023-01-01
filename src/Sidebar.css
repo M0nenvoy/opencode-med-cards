@@ -1,0 +1,27 @@
+.sidebar {
+}
+
+.sidebar__header {
+	box-sizing: border-box;
+	min-height: 100px;
+	padding: 15px;
+}
+
+.sidebar__item {
+	text-transform: uppercase;
+	padding: 15px;
+	color: #333;
+}
+
+.sidebar__item.selected {
+	background-color: #1666ca;
+	color: white;
+}
+
+.sidebar__help {
+	padding: 15px;
+}
+
+.sidebar__help-text {
+	margin-left: 3rem;
+}

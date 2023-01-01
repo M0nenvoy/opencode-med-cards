@@ -1,0 +1,66 @@
+body {
+}
+
+.flex {
+	display: flex;
+}
+
+.dir-col {
+	flex-direction: column;
+}
+
+.align-self-end {
+	align-self: end;
+}
+
+.w-100 {
+	width: 100%;
+}
+
+.w-75 {
+	width: 75%;
+}
+
+.h-100 {
+	height: 100%;
+}
+
+.ml-auto {
+	margin-left: auto;
+}
+
+.mt-auto {
+	margin-top: auto;
+}
+.my-auto {
+	margin-top:     auto;
+	margin-bottom:  auto;
+}
+
+.col-2 {
+	width: 50%;
+}
+
+.col-3 {
+	width: 33.3%;
+}
+
+.col-4 {
+	width: 25%;
+}
+
+.col-5 {
+	width: 20%;
+}
+
+.flex-column {
+	flex-direction: column;
+}
+
+.nowrap {
+	white-space: nowrap;
+}
+
+.uppercase {
+	text-transform: uppercase;
+}
